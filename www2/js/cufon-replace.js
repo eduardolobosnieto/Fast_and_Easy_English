@@ -1,0 +1,3 @@
+Cufon.replace('h3, h4, h5, h6, .post-holder .entry-title, .header-title h1, .sp-title, .dropcap', { fontFamily: 'Calibri Bold', hover:true, textShadow: '1px 1px 1px rgba(0,0,0, 0.43)'});
+Cufon.replace('blockquote', { fontFamily: 'Calibri italic', hover:true, textShadow: '1px 1px 1px rgba(0,0,0, 0.43)'});
+Cufon.replace('.button, .button-1, .button-box, .sf-menu li a, .tags-cloud a, .tagcloud a, .post-footer a', { fontFamily: 'Calibri', hover:true});
