@@ -1,0 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:700);
+
+.box-top-bg {background:url(../images/bg-box-top-hover-ie.png) center bottom no-repeat;}
+
+.tags-cloud a,
+.tagcloud a,
+.post-footer a {padding:1px 16px 5px;}
+
+input, select, textarea {line-height:20px;}
+
