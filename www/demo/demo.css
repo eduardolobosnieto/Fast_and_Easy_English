@@ -1,0 +1,119 @@
+#style-switcher  h3.demo {
+	background: none;
+	border-bottom: 1px solid #999;
+	color: #999;
+	font-size: 20px;
+	font-weight: normal;
+	margin-bottom: 12px;
+}
+#style-switcher  h3.demo i{
+	margin-right:5px;
+}
+
+#style-switcher {
+	background: #000;
+/*	-moz-box-shadow: 0 0 5px #666;
+	-webkit-box-shadow: 0 0 5px #666;
+	box-shadow: 0 0 5px #666;*/
+	border-radius: 0 5px 5px 0;
+	left: -300px;
+	padding: 10px;
+	position: fixed;
+	top: 10%;
+	text-align: left;
+	width:300px;
+	z-index: 9999;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	opacity:.9;	
+}
+
+#style-switcher p {
+	color: #ccc;
+	font-size: 11px;
+	line-height: 1.6em !important;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+#style-switcher #toggle-button {
+	background: #000;
+	border-radius: 0 5px 5px 0;
+	cursor: pointer;
+	font-size:24px;
+	right: -50px;
+	position: absolute;
+	top: 30px;
+	z-index: 9998;
+	padding:15px;
+}
+#style-switcher ul{
+	margin-left: 0;
+}
+#style-switcher ul li{
+	list-style:none;
+	margin: 0 2px 2px 0;
+	float:left;			
+}
+#style-switcher ul li a{
+	width: 35px;
+	height: 25px;
+	display: block;	
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border: 2px solid #222;
+	border-radius: 3px;		
+	color: #fff;
+	text-decoration: none;
+	overflow:hidden;	
+	text-align: center;
+}
+#style-switcher ul li a:hover{
+	border-color: #ccc;
+}
+#style-switcher ul.text-type li a{
+	padding:5px;
+	width:65px;
+	height:auto;
+	font-size:12px;
+}
+#style-switcher ul.text-type li.active a{
+	background:#38A5DD;
+}
+
+#style-switcher ul#bg-list li#no-bg a {
+	border: 0;
+	color: #ccc !important;
+	text-decoration: underline;
+	line-height: 1;
+}
+#style-switcher .combo-type li{
+	margin-right:10px;
+}
+
+#style-switcher ul.color-list li a#orange { background: #F38630; }
+#style-switcher ul.color-list li a#blue { background: #1B83BE; }
+#style-switcher ul.color-list li a#red { background: #F73917; }
+#style-switcher ul.color-list li a#green { background: #88C425; }
+#style-switcher ul.color-list li a#yellow { background: #FCBC12; }
+#style-switcher ul.color-list li a#purple { background: #B21C58; }
+
+#style-switcher p.note {
+	color: #333;
+	font-size: 11px;
+	line-height: 1.6em !important;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+

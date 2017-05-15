@@ -1,0 +1,25 @@
+/* Insert Your Custom CSS Here */
+
+li#home {
+    background: #9ab920;
+}
+
+li#curso {
+	background: #ffa101;
+}
+
+li#mision {
+	background: #ca343d;
+}
+
+li#cladom {
+	background: #14c0e4;
+}
+
+li#contact {
+	background: #9f005d;
+}
+
+.vc_border-blue ul li {
+	list-style-type: none;
+}
