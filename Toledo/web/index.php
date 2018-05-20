@@ -99,8 +99,8 @@
                         <i class="fa fa-user"></i>
                     </div>
                     <div class="col-sm-10">
-                        <h2>UN<span>O</span></h2> <!-- ABOUT<span> ME</span>  / Some words about me. -->
-                        <h3>uno</h3>
+                        <h2>ABOUT<span> ME</span></h2>
+                        <h3>Some words about me</h3>
                     </div>
                 </div>
             </div>
@@ -179,7 +179,7 @@
             <div class="mask">
             </div>
             <div class="main-heading">
-                <h1>UN<span>O</span>.</h1>
+                <h1>about <span>ME</span></h1>
             </div>
         </div>
 
@@ -190,23 +190,19 @@
             <!--( A ) Story of Glory -->
 
             <div class="story clearfix">
-                <h2 class="small-heading">XXXXXXX</h2>
+                <h2 class="small-heading">Juan Carlos Toledo</h2>
                 <div class="col-lg-11 col-lg-offset-1">
                     <div class="story-content clearfix">
                         <img alt="" src="images/dp.jpg" class="col-xs-offset-1 col-sm-offset-0 col-sm-4 col-xs-10">
                         <div class="col-sm-8 col-xs-12">
-                            <h3>YYYYYYYY</h3>
-                            <p>
-                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat enim arcu, eget tempor nibh congue a. Maecenas faucibus sagittis nibh, in bibendum ex. Donec eu ornare augue, nec cursus arcu. Vivamus accumsan mauris nec nulla bibendum, et eleifend nisl tristique. Pellentesque fringilla lorem id nibh auctor sagittis. Suspendisse non nisl at velit malesuada bibendum.
-                            </p>
-                            <p>
-                                Quisque in tempor sapien, et cursus neque. Nunc pulvinar diam ac dapibus mollis. Etiam id iaculis lorem. Donec bibendum volutpat ante, eu consequat nisi suscipit at. Etiam interdum augue dolor, id auctor felis volutpat sed. Phasellus id ex ultrices, tempus leo eget, volutpat diam. In sit amet magna faucibus, molestie nisi in, hendrerit libero. Morbi auctor velit sagittis, elementum lorem eget, imperdiet nisl.
-                            </p>
-                            <p>
-                                Curabitur pharetra tincidunt lobortis. Duis dolor felis, sollicitudin ac dapibus quis, hendrerit ut est. Sed faucibus neque iaculis nisi accumsan, et condimentum nunc scelerisque. Etiam interdum augue dolor, id auctor felis volutpat sed. Phasellus id ex ultrices, tempus leo eget, volutpat diam. In sit amet magna faucibus, molestie nisi in, hendrerit libero. Morbi auctor velit sagittis, elementum lorem eget, imperdiet nisl. Fusce elementum orci in dignissim cursus.
-                            </p>
-                            <a href="#" class="hire-me">UN</a>
-                            <a href="#">DO</a>
+                            <h3>Profesor de Ingl&eacute;s</h3>
+                            <p align="justify">Con una amplia trayectoria en la enseñanza de idioma inglés</p>
+                            <p align="justify">se ha desempeñado en diversas instituciones de educación en la ciudad de Santiago, tanto en institutos profesionales, escuelas de inglés y establecimiento particulares subvencionados, así como también se ha desempeñado en el mundo privado y actualmente en  el sector público. Especialista en enseñanza del idioma inglés para la primera infancia, niños, jóvenes y adultos, destacando la creación de programa de estudios de inglés de negocio, confección de syllabus para reconocidas instituciones de educación en la ciudad de Santiago.</p>
+                            
+                            <p align="justify">Se destaca por poner en práctica constantemente nuevas metodologías de aprendizaje del idioma inglés y fortalecer las competencias pedagógicas al servicio de sus alumnos, en el ejercicio pedagógico su experiencia le ha permitido conocer la forma de planificar actividades didácticas, de acuerdo a las Bases Curriculares del Ministerio de Educación, administrando técnicas de enseñanza apropiadas, junto con promover ambientes propicios para el aprendizaje, en un ambiente de respeto, flexibilidad y tolerancia mutua.</p>
+                            <p align="justify">En su que hacer pedagógico ha ganado una vasta experiencia en la enseñanza de inglés de negocios, inglés general e inglés aeronáutico, docente con una alta capacidad de trabajo bajo presión, cumplimiento de plazos y ordenado en su quehacer diario.</p>
+                            <!--<a href="#" class="hire-me">UN</a>
+                            <a href="#">DO</a>-->
                         </div>
                     </div>
                 </div>
